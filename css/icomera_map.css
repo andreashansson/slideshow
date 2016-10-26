@@ -1,0 +1,42 @@
+/************************************
+  MAP
+*************************************/
+body {
+	background-color: #ffffff;
+	color: #111111;
+	font: 87.5%/1.4 arial,verdana,sans-serif;
+	line-height: 1;
+	margin: 0;
+}
+
+
+
+#map_container {
+	background-repeat: no-repeat;
+	background-position: center center;
+	min-width: 210px;
+	min-height: 310px;
+}
+#map_data {
+	background-color: #ffffff;
+	text-align: center;
+	
+}
+#map_data td
+{
+	vertical-align: middle;
+	text-align: center;
+	font-weight: bold;
+	font-size: 0.9em;
+	padding: 3px;
+}
+#map_loader_img
+{
+	vertical-align: middle;
+	text-align: center;
+	font-weight: bold;
+	font-size: 0.9em;
+	padding: 3px;
+    
+    
+}
